@@ -1,3 +1,4 @@
+//menghitung index bilangan prima
 function indexPrime(param1){
     var i,j;
     i = 1; j = 2;
