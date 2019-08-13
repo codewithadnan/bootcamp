@@ -1,3 +1,4 @@
+//penjumlahan rekursif
 function weirdMultiply(sentence){
     var numChar = sentence.toString();
     if (numChar.length == 1)
