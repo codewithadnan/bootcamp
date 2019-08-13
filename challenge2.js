@@ -1,3 +1,4 @@
+//Membuat Array number dan string
 function deretKaskus(n){
     var output = [];
     var kelipatan;
