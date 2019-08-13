@@ -1,3 +1,4 @@
+//melakukan manipulasi kalimat setelah di manipulasi kata
 function sentenceManipulation(sentence){
     var start = [];
     var end = [];
