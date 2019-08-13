@@ -1,3 +1,4 @@
+//Penjumlahan parameter
 function sum(){
     var jumlah = 0;
     var i;
