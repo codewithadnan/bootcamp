@@ -1,3 +1,4 @@
+//membuat array yang berisi bilangan spiral dari matrix persegi
 function spiral(param1){
     var matrix = [];
     var output = [];
