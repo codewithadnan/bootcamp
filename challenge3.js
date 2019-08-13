@@ -1,3 +1,4 @@
+//membuat bilangan romawi
 function romawi(n){
     var A = ["M", "D", "C", "L", "X", "V", "I"];
     var B = [1000, 500, 100, 50, 10, 5, 1];
