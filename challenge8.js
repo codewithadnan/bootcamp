@@ -1,3 +1,4 @@
+//menebak angka yang cocok dengan menerapkan regex
 function pola(str){
     var strArray = str.split(" ");
     var Ketemu = false;
