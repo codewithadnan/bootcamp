@@ -1,3 +1,4 @@
+//memanipulasi string berdasarkan huruf pertama
 function stringManipulation(word){
     //asumsi tidak case-sensitive
     var vokal = ['a','i','u','e','o'];
